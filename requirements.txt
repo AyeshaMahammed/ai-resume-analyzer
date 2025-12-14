@@ -1,1 +1,9 @@
+gradio
+PyPDF2
+python-docx
+beautifulsoup4
+ollama
+openai
+matplotlib
+plotly
 
